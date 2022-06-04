@@ -5,7 +5,8 @@
     text-align: center;
 }
 
-.ingredients {
+.ingredients,
+.steps {
     background-color: whitesmoke;
     padding: 50px;
     text-align: center;
@@ -15,8 +16,7 @@ li {
     margin-bottom: 10px;
 }
 
-.steps {
-    background-color: whitesmoke;
-    padding: 50px;
-    text-align: center;
+img {
+    height: auto;
+    width: 500px;
 }
