@@ -1,4 +1,22 @@
 
 .container {
     background-color: beige;
+    padding: 50px;
+    text-align: center;
+}
+
+.ingredients {
+    background-color: whitesmoke;
+    padding: 50px;
+    text-align: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.steps {
+    background-color: whitesmoke;
+    padding: 50px;
+    text-align: center;
 }
